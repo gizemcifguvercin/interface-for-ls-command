@@ -31,7 +31,7 @@ public class ls_command extends javax.swing.JFrame {
     public void komut(String komut){//hangi ls komutunu calistiracagini parametre olarak alır
         StringBuffer sb =new StringBuffer();
         
-    try {
+        try {
             p = Runtime.getRuntime().exec(komut, null, folder);
             BufferedReader br;
             br = new BufferedReader(
@@ -43,7 +43,7 @@ public class ls_command extends javax.swing.JFrame {
             p.destroy();
         } 
         catch (IOException | InterruptedException e) {} 
-    result.setText(sb.toString());
+        result.setText(sb.toString());
     }
        
     /**
