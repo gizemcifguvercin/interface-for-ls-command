@@ -8,7 +8,7 @@
 <p>Installed <a href="https://netbeans.org/downloads/" rel="nofollow">Netbeans IDE</a></p>
 </li>
 <li>
-<p>Installed JDK  (at least V1.1) <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" rel="nofollow">Netbeans IDE</a></p>
+<p>Installed JDK  (at least V1.1) <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" rel="nofollow">JDK</a></p>
 </li>
 </ul>
 
